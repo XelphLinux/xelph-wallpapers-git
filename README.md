@@ -1,1 +1,1 @@
-# xelph-wallpapers-git
+# Xelph Linux wallpapers repo
