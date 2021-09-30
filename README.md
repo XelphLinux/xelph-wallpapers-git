@@ -4,4 +4,11 @@
 
 Someone dropped ink in a bucket and swirled it around. Example -
 
-![Red Fluid Thingy](./usr/share/backgrounds/fluid-backgrounds/016.jpg)
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.is-a.dev/">
+    <img width="49.5%" src="./usr/share/backgrounds/fluid-backgrounds/016.jpg" />
+    <img width="49.5%" src="./usr/share/backgrounds/fluid-backgrounds/017.jpg" />
+  </a>
+</p>
+<br>
