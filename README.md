@@ -1,25 +1,21 @@
 # Xelph Linux - Wallpapers Repo
 
-## [fluid-backgrounds](.\usr\share\backgrounds\fluid-backgrounds) 
+## [fluid-wallpapers](.\usr\share\backgrounds\fluid-wallpapers) 
 
 Someone dumped ink in a bucket and swirled it around. Example -
 
 <p align="left">
-  <a href="https:\\abhigyantrips.is-a.dev\">
-    <img width="49.5%" src="usr\share\backgrounds\fluid-backgrounds\16.jpg" />
-    <img width="49.5%" src="usr\share\backgrounds\fluid-backgrounds\17.jpg" />
-  </a>
+    <img width="49.5%" src="usr\share\backgrounds\fluid-wallpapers\16.jpg" />
+    <img width="49.5%" src="usr\share\backgrounds\fluid-wallpapers\17.jpg" />
 </p>
 
-## [nord-backgrounds](.\usr\share\backgrounds\nord-backgrounds)
+## [nord-wallpapers](.\usr\share\backgrounds\nord-wallpapers)
 
 Mountains, mountains, more mountains. These are based on an arctic\north-bluish theme. Example - 
 
 <p align="left">
-  <a href="https:\\abhigyantrips.is-a.dev\">
-  <img width="49.5%" src="usr\share\backgrounds\mountain-backgrounds\08.jpg" />
-    <img width="49.5%" src="usr\share\backgrounds\mountain-backgrounds\25.jpg" />
-  </a>
+  <img width="49.5%" src="usr\share\backgrounds\mountain-wallpapers\08.jpg" />
+  <img width="49.5%" src="usr\share\backgrounds\mountain-wallpapers\25.jpg" />
 </p>
 
 ## [anime-wallpapers](usr\share\backgrounds\anime-wallpapers)
@@ -27,8 +23,6 @@ Mountains, mountains, more mountains. These are based on an arctic\north-bluish 
 Idk man vibes.
 
 <p align="left">
-  <a href="https:\\abhigyantrips.is-a.dev\">
   <img width="49.5%" src="usr\share\backgrounds\anime-wallpapers\05.jpg" />
     <img width="49.5%" src="usr\share\backgrounds\anime-wallpapers\03.jpg" />
-  </a>
 </p>
