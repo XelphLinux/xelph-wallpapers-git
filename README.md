@@ -2,9 +2,9 @@
 
 ## [fluid-backgrounds](./usr/share/backgrounds/fluid-backgrounds) 
 
-Someone dropped ink in a bucket and swirled it around. Example -
+Someone dumped ink in a bucket and swirled it around. Example -
 
-<br/>
+<br>
 <p align="left">
   <a href="https://abhigyantrips.is-a.dev/">
     <img width="49.5%" src="./usr/share/backgrounds/fluid-backgrounds/016.jpg" />
