@@ -7,8 +7,8 @@
 Someone dumped ink in a bucket and swirled it around.
 
 <p align="left">
+  <img width="49.5%" src="usr\share\backgrounds\fluid-wallpapers\15.jpg" />
   <img width="49.5%" src="usr\share\backgrounds\fluid-wallpapers\16.jpg" />
-  <img width="49.5%" src="usr\share\backgrounds\fluid-wallpapers\17.jpg" />
 </p>
 
 ## [mountain-wallpapers](.\usr\share\backgrounds\mountain-wallpapers)
